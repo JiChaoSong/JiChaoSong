@@ -93,22 +93,6 @@ AI Product Manager
 
 ---
 
-### [AcaLite](https://github.com/JiChaoSong/AcaLite)
-
-轻量 AI 学术工具，面向学生、青年教师、独立研究者和小型实验室，主打本地部署、隐私保护、文献解读、本地检索和引用生成。
-
-**关键词：** `AI Academic Tool` · `RAG` · `Local-first` · `Privacy` · `Citation` · `MVP`
-
----
-
-### [AURORA AgentOS](https://github.com/JiChaoSong/AuroraAgentOS)
-
-企业级分布式智能体操作系统 MVP，探索 Agent 从目标接收、规划、工具执行、反思改进到记忆存储的核心执行闭环。
-
-**关键词：** `AgentOS` · `Planner` · `Executor` · `Memory` · `Reflector` · `Reasoner`
-
----
-
 ### [Hermes Hub](https://github.com/JiChaoSong/hermes-hub)
 
 多 Agent / 多 Profile / 多节点统一管理平台，通过 Controller-Agent 架构统一管理本地和远程机器上的多个 Agent 实例。
