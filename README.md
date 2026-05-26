@@ -1,23 +1,125 @@
-## 在线简历
+<h1 align="center">Hi, I'm 宋纪超 👋</h1>
 
-- [查看完整 Markdown 简历](./resume.md)
-- 联系邮箱：jichaosong@outlook.com
-- 手机：面试沟通后提供
+<p align="center">
+  <strong>AI 产品经理 / Agent 产品探索者 / AI 工具产品构建者</strong>
+</p>
 
-## 关键词
+<p align="center">
+  <a href="./resume.md">AI Product Profile</a> ·
+  <a href="https://github.com/JiChaoSong/ai-pm-playbook">AI PM Playbook</a> ·
+  <a href="https://github.com/JiChaoSong/AcaLite">AcaLite</a> ·
+  <a href="mailto:jichaosong@outlook.com">Email</a>
+</p>
 
-`B端产品经理` · `平台产品` · `中后台产品` · `SaaS` · `CRM` · `MES` · `数据平台` · `业务流程设计` · `权限与规则配置` · `项目推进`
+---
 
-## 代表项目
+## 关于我
 
-- **CRM｜客户关系管理平台**：负责客户管理、销售机会、拜访计划、线索分配、公海池、销售报表等核心模块规划与设计。
-- **MES｜制造执行与供应链协同系统**：围绕采购入库、生产领料、工序报工、完工入库、销售出库梳理供应链全流程，并推动 MES 与 U8 ERP 数据链路打通。
-- **WEB VGATE 云平台｜汽车测试数据管理平台**：围绕设备、数据、分析、服务链路，设计汽车测试数据全生命周期管理能力。
-- **Falcon｜分布式压测平台**：参与压测任务编排、分布式执行、实时监控、报告分析等产品能力设计。
+我是一名正在聚焦 **AI 产品经理** 方向的产品经理，关注如何把大模型能力转化为真正可用、可控、可评估、可持续迭代的产品系统。
 
-## 最近关注
+我目前重点关注：
 
-- AI 辅助产品经理工作流
-- B 端业务系统的平台化抽象
-- 企业内部管理系统的效率提升
-- 数据驱动的产品迭代与运营分析
+- **AI Agent 产品**：目标拆解、工具调用、记忆、反思、权限、日志与可观测性
+- **RAG / 知识库产品**：文档导入、语义检索、引用生成、本地化部署与数据隐私
+- **AI Coding Agent**：开发者工作流、长会话、成本控制、MCP、Skills、Memory、Hooks
+- **AI 产品方法论**：AI 产品画布、Agent PRD、评估指标、Prompt 工作流、商业化与合规
+- **B 端 AI 工作流**：把 AI 能力嵌入复杂业务流程，而不是停留在 Demo 或聊天框
+
+我更认同这样的产品判断：
+
+> AI 产品经理的价值，不是把大模型接进页面，而是设计清楚用户目标、模型边界、工具权限、评估闭环和人机协作流程。
+
+---
+
+## 当前方向
+
+```text
+AI Product Manager
+├── Agent Product Design
+│   ├── Goal → Plan → Tool Use → Reflection → Memory
+│   ├── Multi-Agent / Multi-Profile / Multi-Node Management
+│   └── Permission / Audit / Observability
+├── RAG & Knowledge Product
+│   ├── Local-first AI Tools
+│   ├── Document Understanding
+│   └── Semantic Search & Citation
+├── AI Coding Agent
+│   ├── Developer Workflow
+│   ├── MCP / Skills / Memory / Hooks
+│   └── Cost & Context Management
+└── AI PM Methodology
+    ├── AI Product Canvas
+    ├── Agent PRD
+    ├── Evaluation Metrics
+    └── Product Lifecycle
+```
+
+---
+
+## Featured Projects
+
+### [AI PM Playbook](https://github.com/JiChaoSong/ai-pm-playbook)
+
+面向 AI 产品经理的实战知识库，覆盖 AI 产品框架、PRD 模板、案例研究、评估体系、Agent 设计、提示词工程、用户研究、商业化、安全合规与开发流程。
+
+**关键词：** `AI PM` · `PRD` · `Agent Design` · `Evaluation` · `Prompt Workflow` · `AI Product Canvas`
+
+---
+
+### [AcaLite](https://github.com/JiChaoSong/AcaLite)
+
+轻量 AI 学术工具，面向学生、青年教师、独立研究者和小型实验室，主打本地部署、隐私保护、文献解读、本地检索和引用生成。
+
+**关键词：** `AI Academic Tool` · `RAG` · `Local-first` · `Privacy` · `Citation` · `MVP`
+
+---
+
+### [AURORA AgentOS](https://github.com/JiChaoSong/AuroraAgentOS)
+
+企业级分布式智能体操作系统 MVP，探索 Agent 从目标接收、规划、工具执行、反思改进到记忆存储的核心执行闭环。
+
+**关键词：** `AgentOS` · `Planner` · `Executor` · `Memory` · `Reflector` · `Reasoner`
+
+---
+
+### [Hermes Hub](https://github.com/JiChaoSong/hermes-hub)
+
+多 Agent / 多 Profile / 多节点统一管理平台，通过 Controller-Agent 架构统一管理本地和远程机器上的多个 Hermes Agent 实例。
+
+**关键词：** `Agent Fleet` · `Profile Management` · `RBAC` · `Command Queue` · `Logs` · `WebSocket`
+
+---
+
+### [DeepSeek Reasonix](https://github.com/JiChaoSong/DeepSeek-Reasonix)
+
+AI Coding Agent 产品研究方向，关注 DeepSeek-native Coding Agent、长会话成本控制、Prefix Cache、MCP、Skills、Memory、Hooks 和权限控制。
+
+**关键词：** `AI Coding Agent` · `DeepSeek` · `Prefix Cache` · `MCP` · `Skills` · `Memory`
+
+---
+
+## 我的产品关注点
+
+我会持续围绕这些问题做项目和沉淀：
+
+1. AI 产品如何从 Demo 走向可长期使用的系统？
+2. Agent 如何做到可控、可观测、可恢复，而不是黑盒执行？
+3. RAG / 知识库产品如何在隐私、准确性和易用性之间取得平衡？
+4. AI Coding Agent 如何降低成本，同时保持长会话稳定性？
+5. AI 产品经理如何建立自己的方法论、作品集和可复用工具链？
+
+---
+
+## 技能关键词
+
+`AI 产品经理` · `Agent 产品` · `RAG` · `AI 工具产品` · `AI Coding Agent` · `Prompt Engineering` · `AI 产品评估` · `人机协作` · `权限与安全` · `成本控制` · `B 端 AI 工作流` · `产品方法论`
+
+---
+
+## 联系我
+
+- Email：<jichaosong@outlook.com>
+- Profile：[`resume.md`](./resume.md)
+- GitHub：<https://github.com/JiChaoSong>
+
+> 持续构建 AI 产品作品集，也持续把 AI PM 的思考沉淀成可复用的方法论。
