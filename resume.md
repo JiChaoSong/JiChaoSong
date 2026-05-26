@@ -69,48 +69,6 @@
 
 ---
 
-### AcaLite｜轻量 AI 学术工具
-
-**项目定位：** 面向学生、青年教师、独立研究者和小型实验室的轻量 AI 学术工具，主打本地部署、隐私保护、文献解读、本地检索和引用生成。
-
-**我关注 / 负责的产品设计点：**
-
-- 明确产品核心差异化：可本地部署、降低科研资料外流风险、聚焦文献解读与引用规范，而不是建设重资产商业文献数据库。
-- 拆分 C 端与 B 端种子用户：技术极客、独立研究者、学生、青年教师、小型实验室、教研小组和开源社区用户。
-- 规划 MVP 功能范围：本地 PDF 导入、文献分类、AI 摘要、研究方法提取、中英文翻译、RAG 本地检索、APA / MLA / GB/T 7714 引用生成。
-- 设计开源引流、技术支持、托管部署、定制功能和插件生态的商业化路径。
-- 控制项目边界：不做商业文献数据库、不做大规模文献爬虫、不追求早期大而全。
-
-**项目价值：**
-
-- 展示了 AI + 垂直场景 + 本地化部署 + 隐私保护的产品设计思路。
-- 适合体现 AI 产品经理对 MVP、用户分层、商业路径和合规边界的综合判断。
-
-**项目地址：** <https://github.com/JiChaoSong/AcaLite>
-
----
-
-### AURORA AgentOS｜企业级智能体操作系统 MVP
-
-**项目定位：** 企业级分布式智能体操作系统 MVP，展示智能体从目标接收、规划、工具执行、反思改进到记忆存储的核心执行闭环。
-
-**我关注 / 负责的产品设计点：**
-
-- 设计目标驱动的 Agent 闭环：用户输入目标后，由系统完成规划、工具执行、反思评估、推理分析和记忆沉淀。
-- 抽象 Agent 产品核心模块：Planner、Executor、Tools、Memory、Reflector、Reasoner、LLM Client。
-- 关注工具调用能力，包括 Shell、Python、HTTP 等可扩展工具形态。
-- 设计失败重试与反思优化机制，让 Agent 在未达目标时可以基于反馈重新规划。
-- 从企业级方向规划未来能力：世界模型、技能系统、多智能体协同、任务编排、持续学习与自动技能生成。
-
-**项目价值：**
-
-- 展示了对 Agent 产品底层执行链路、系统架构和可扩展能力的理解。
-- 能体现从产品视角理解 AI Agent 不只是聊天，而是“目标—计划—执行—反馈—记忆”的系统工程。
-
-**项目地址：** <https://github.com/JiChaoSong/AuroraAgentOS>
-
----
-
 ### Hermes Hub｜多 Agent / 多 Profile / 多节点统一管理平台
 
 **项目定位：** 面向 Hermes Agent 的中心化控制台，通过 Controller-Agent 架构统一管理本地和远程机器上的多个 Agent 实例。
@@ -131,24 +89,6 @@
 **项目地址：** <https://github.com/JiChaoSong/hermes-hub>
 
 ---
-
-### DeepSeek Reasonix｜AI Coding Agent 产品研究
-
-**项目定位：** 面向终端的 DeepSeek-native AI Coding Agent，核心关注长会话、低成本、Prefix Cache 稳定性、工具调用修复、MCP、Skills、Memory、Hooks 和权限控制。
-
-**我关注 / 负责的产品研究点：**
-
-- 拆解 Coding Agent 的核心用户场景：代码理解、文件编辑、命令执行、计划模式、远程会话、桌面客户端和工作区记忆。
-- 关注成本控制与长会话体验，理解 Prefix Cache 稳定性对 AI Coding Agent 产品体验和使用成本的影响。
-- 分析工具调用、权限控制、Shell allowlist、MCP 服务、Skills、Memory、Hooks 等能力如何组成可控的开发者 Agent 工作流。
-- 关注 CLI、Desktop、QQ 远程通道等多入口形态，以及同一 Agent Loop 如何承载不同交互界面。
-
-**项目价值：**
-
-- 展示对 AI Coding Agent 这一高复杂度 AI 产品形态的理解。
-- 能体现对模型成本、工具权限、开发者体验、会话记忆和工作流可控性的综合关注。
-
-**项目地址：** <https://github.com/JiChaoSong/DeepSeek-Reasonix>
 
 ## 我的 AI 产品判断
 
