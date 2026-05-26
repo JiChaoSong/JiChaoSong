@@ -3,7 +3,6 @@
 > AI 产品经理 / Agent 产品 / AI 工具产品 / 知识库与 RAG 产品 / AI 产品方法论
 
 - 邮箱：jichaosong@outlook.com
-- 手机：面试沟通后提供
 - GitHub：<https://github.com/JiChaoSong>
 - 关注方向：AI Agent、RAG、本地化 AI 工具、AI Coding Agent、AI 产品方法论、B 端 AI 工作流
 
