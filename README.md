@@ -7,7 +7,6 @@
 <p align="center">
   <a href="./resume.md">AI Product Profile</a> ·
   <a href="https://github.com/JiChaoSong/ai-pm-playbook">AI PM Playbook</a> ·
-  <a href="https://github.com/JiChaoSong/AcaLite">AcaLite</a> ·
   <a href="mailto:jichaosong@outlook.com">Email</a>
 </p>
 
